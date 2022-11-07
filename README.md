@@ -2,7 +2,7 @@
 
 Partner & Technical fellow at @WCOMAB
 Microsoft Azure & Developer Technologies MVP.
-.NET Foundation board member, maintainter commitee chair and project maintainer.
+.NET Foundation board member, maintainer committee chair, and project maintainer.
 Been coding since the ’80s (C128 & Amiga).
 Father of 2, and husband of 1.
 
