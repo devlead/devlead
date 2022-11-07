@@ -1,10 +1,10 @@
 # Mattias Karlsson  - @devlead
 
-Partner & Technical fellow at @WCOMAB
-Microsoft Azure & Developer Technologies MVP.
-.NET Foundation board member, maintainer committee chair, and project maintainer.
-Been coding since the ’80s (C128 & Amiga).
-Father of 2, and husband of 1.
+Partner & Technical fellow at @WCOMAB <br/>
+Microsoft Azure & Developer Technologies MVP.<br/>
+.NET Foundation board member, maintainer committee chair, and project maintainer.<br/>
+Been coding since the ’80s (C128 & Amiga).<br/>
+Father of 2, and husband of 1.<br/>
 
 ## Maintainer
 
