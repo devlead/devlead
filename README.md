@@ -15,7 +15,7 @@ Maintainer of several open-source projects, most known there probably
 
 ## Blog
 
-Ocassionally blog at [devlead.se](https://www.devlead.se) and [cakebuild.net](https://cakebuild.net/blog/).
+Occasionally blog at [devlead.se](https://www.devlead.se) and [cakebuild.net](https://cakebuild.net/blog/).
 
 ## Social
 
