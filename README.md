@@ -1,4 +1,4 @@
-# Mattias Karlsson  - @devlead
+# Mattias Karlsson  - [@devlead](https://github.com/devlead)
 
 Partner & Technical fellow at @WCOMAB <br/>
 Microsoft Azure & Developer Technologies MVP.<br/>
@@ -10,8 +10,8 @@ Father of 2, and husband of 1.<br/>
 
 Maintainer of several open-source projects, most known there probably
 
-* @cake-build
-* @LitJSON
+* [@cake-build](https://github.com/cake-build)
+* [@LitJSON](https://github.com/LitJSON)
 
 ## Blog
 
