@@ -18,7 +18,7 @@ Maintainer of several open-source projects, most known there probably
 Occasionally blog at [devlead.se](https://www.devlead.se) and [cakebuild.net](https://cakebuild.net/blog/).
 
 ## Social
-
+* <a href="https://bsky.app/profile/devlead.se">Bluesky</a>
 * <a href="https://twitter.com/devlead">Twitter</a>
 * <a rel="me" href="https://mastodon.social/@devlead">Mastodon</a>
 * <a href="https://devlead.medium.com">Medium</a>
