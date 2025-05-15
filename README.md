@@ -1,14 +1,14 @@
 # Mattias Karlsson  - [@devlead](https://github.com/devlead)
 
 Partner & Technical fellow at @WCOMAB <br/>
-Microsoft Azure & Developer Technologies MVP.<br/>
-.NET Foundation board member, maintainer committee chair, and project maintainer.<br/>
+Microsoft Developer Technologies MVP.<br/>
+.NET Foundation member and project maintainer.<br/>
 Been coding since the ’80s (C128 & Amiga).<br/>
 Father of 2, and husband of 1.<br/>
 
 ## Maintainer
 
-Maintainer of several open-source projects, most known there probably
+Maintainer of several open-source projects, most known there for probably
 
 * [@cake-build](https://github.com/cake-build)
 * [@LitJSON](https://github.com/LitJSON)
