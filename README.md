@@ -1,7 +1,7 @@
 # Mattias Karlsson  - [@devlead](https://github.com/devlead)
 
-Partner & Technical fellow at @WCOMAB <br/>
-Microsoft Developer Technologies MVP.<br/>
+Partner & Technical fellow at [@WCOMAB](https://github.com/wcomab) <br/>
+DevOps and Developer Tools Microsoft MVP.<br/>
 .NET Foundation member and project maintainer.<br/>
 Been coding since the ’80s (C128 & Amiga).<br/>
 Father of 2, and husband of 1.<br/>
