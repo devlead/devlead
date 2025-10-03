@@ -19,7 +19,6 @@ Occasionally blog at [devlead.se](https://www.devlead.se) and [cakebuild.net](ht
 
 ## Social
 * <a href="https://bsky.app/profile/devlead.se">Bluesky</a>
-* <a href="https://twitter.com/devlead">Twitter</a>
 * <a rel="me" href="https://mastodon.social/@devlead">Mastodon</a>
 * <a href="https://devlead.medium.com">Medium</a>
 * <a href="https://github.com/devlead">GitHub</a>
